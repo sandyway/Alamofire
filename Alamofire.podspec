@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/Alamofire/Alamofire'
   s.social_media_url = 'http://twitter.com/AlamofireSF'
   s.authors = { 'Alamofire Software Foundation' => 'info@alamofire.org' }
-  s.source = { :git => 'https://github.com/sandyway/Alamofire.git', :tag => s.version , branch =>'serious'}
+  s.source = { :git => 'https://github.com/sandyway/Alamofire.git', :tag => s.version , :branch =>'serious'}
 
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.11'
